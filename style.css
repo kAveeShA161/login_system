@@ -77,3 +77,26 @@ button:hover{
     margin: 10px;
     border-radius: 10px;
 }
+
+h1 {
+    text-align: center;
+    color: #5e5e5e;
+}
+
+a{
+    text-decoration: none;
+    float: right;
+    background: #353535;
+    padding: 10px;
+    border-radius: 10px;
+    width: 75px;
+    border: 0;
+    margin-right: 10px;
+    box-shadow: 0 4px 8px 0 rgba(175, 175, 175, 0.2), 0 6px 20px 0 rgba(150, 150, 150, 0.19);
+}
+
+a:hover{
+    color: #ffffff;
+    background: #606060;
+    box-shadow: 0 4px 8px 0 rgba(155, 155, 155, 0.2), 0 6px 20px 0 rgba(75, 74, 74, 0.19);
+}

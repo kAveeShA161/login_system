@@ -14,7 +14,9 @@
 </head>
 <body>
     <h1>Hello, <?php echo $_SESSION['name']; ?></h1>
-    <a href="logout.php">Logout</a>
+    <br>
+    <a href="logout.php" >Logout</a>
+    
 </body>
 </html>
 
